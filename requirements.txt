@@ -4,3 +4,6 @@ scikit-learn
 pandas
 plotly
 rapidfuzz
+pymupdf
+rapidocr-onnxruntime
+numpy
